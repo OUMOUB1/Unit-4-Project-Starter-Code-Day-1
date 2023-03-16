@@ -1,0 +1,42 @@
+img {
+    height: 200px; 
+}
+div {
+    border: 1px solid black;   
+}
+.h1 {
+	color: pink;
+    text-align: center;
+    background-color:pink;
+   font-family: 'Kaushan Script', cursive;
+}
+
+.navBar {
+	display: flex;
+    justify-content: center;
+    background-color: beige;
+    
+}
+h2 {
+	font-family: 'Hind Siliguri', sans-serif;
+    color: #ff4d94;
+}
+.h1 {
+    color: pink;
+    text-align: center; 
+    
+   font-family: 'Kaushan Script', cursive;
+}
+p {
+	font-family: 'Shadows Into Light', cursive;
+}
+ .nav {
+	padding: 2px;
+    margin: 6px;
+    border: 1px solid black;
+}
+body {
+	background-color:pink;
+}
+    
+ 
